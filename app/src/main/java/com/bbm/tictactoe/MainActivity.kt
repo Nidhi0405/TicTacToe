@@ -303,6 +303,3 @@ fun GetComposableFromMove(move: Boolean?) {
         )
     }
 }
-
-//https://www.youtube.com/watch?v=DQlabh1p2HI&list=PL2aB10mYqlf97jah9GKpzWUfc_zqWLpKA&index=2
-//https://www.youtube.com/watch?v=-0zXgoby72Y&list=PL2aB10mYqlf97jah9GKpzWUfc_zqWLpKA&index=1
